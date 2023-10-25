@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "ES2020",
+    "moduleResolution": "bundler",
+    "outDir": "./dist"
+  },
+  "references": [
+    {
+      "path": "./packages/y-idb/tsconfig.json"
+    },
+    {
+      "path": "./playground/tsconfig.json"
+    }
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
