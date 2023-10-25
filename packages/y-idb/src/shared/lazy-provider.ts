@@ -1,3 +1,4 @@
+/// Credit: https://github.com/toeverything/AFFiNE/tree/559ec3956f643d00d47fead8728e9b587f68b625/packages/common/y-provider
 import {
   applyUpdate,
   type Doc,
