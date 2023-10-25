@@ -1,5 +1,5 @@
 {
-  "name": "y-db",
+  "name": "y-idb",
   "description": "yjs persistence",
   "version": "0.0.1",
   "type": "module",
